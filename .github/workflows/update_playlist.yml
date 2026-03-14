@@ -1,4 +1,4 @@
-name: Generate LocalNow EPG XML # Workflow name updated for clarity
+name: Generate EPG # Workflow name updated for clarity
 
 on:
   workflow_dispatch: # Allows manual triggering
